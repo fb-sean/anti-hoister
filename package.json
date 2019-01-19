@@ -1,0 +1,28 @@
+{
+  "name": "anti-hoister",
+  "version": "0.0.1",
+  "description": "Ya no abran más hoisters en tu servidor!",
+  "main": "anti-hoist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magikste/anti-hoister.git"
+  },
+  "keywords": [
+    "anti-hoist",
+    "discord",
+    "santiago",
+    "antihoist",
+    "hoister",
+    "hoist",
+    "discord.js"
+  ],
+  "author": "Santiago#0001 (lemagik)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magikste/anti-hoister/issues"
+  },
+  "homepage": "https://github.com/magikste/anti-hoister#readme"
+}
